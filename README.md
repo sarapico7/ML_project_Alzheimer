@@ -17,24 +17,24 @@ These images are sourced from the Open Access Series of Imaging Studies (OASIS),
 **Methodology**
 
 1. Data Preparation
-  + Import necessary libraries
-  + Develop helper functions for preprocessing
-  + Preprocess images for analysis
-  + Visualize sample images
+    + Import necessary libraries
+    + Develop helper functions for preprocessing
+    + Preprocess images for analysis
+    + Visualize sample images
 2. Model Comparison
-  + Base model: Random Forest
-  + Convolutional Neural Network (CNN) model
-  + Transfer Learning with:
-    - ResNet50
-    - InceptionV3
-    -	DenseNet169
-    -	VGG16
-  + Compare and summarize results to select the best-performing model for further tuning
+    + Base model: Random Forest
+    + Convolutional Neural Network (CNN) model
+    + Transfer Learning with:
+      - ResNet50
+      - InceptionV3
+      -	DenseNet169
+      -	VGG16
+    + Compare and summarize results to select the best-performing model for further tuning
 3. Model Tuning
-  + Fine-tuning the selected model
-  + Implement data augmentation techniques to improve performance
+    + Fine-tuning the selected model
+    + Implement data augmentation techniques to improve performance
 4. Evaluation
-  + Assess the performance of the tuned model on test images
+    + Assess the performance of the tuned model on test images
 5. Conclusions
 
 **Repository directories:**
