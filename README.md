@@ -2,9 +2,11 @@
 Project developed for the Data Science Bootcamp.
 
 **Problem Statement**
+
 Alzheimer’s disease is a neurodegenerative disorder and the most common form of dementia. Early detection and accurate diagnosis are crucial for effective intervention and improved quality of life for patients. Magnetic resonance imaging (MRI) is a key tool for diagnosing Alzheimer's disease and monitoring its progression. The objective of this project is to develop and evaluate a Deep Learning model capable of identifying distinctive patterns in MRI images, enabling discrimination between different stages of Alzheimer's patients.
 
 **Content**
+
 The dataset comprises MRI images from four classes:
   + Mild Demented
   + Moderate Demented
@@ -13,6 +15,7 @@ The dataset comprises MRI images from four classes:
 These images are sourced from the Open Access Series of Imaging Studies (OASIS), a project aimed at making neuroimaging datasets freely available to the scientific community.
 
 **Methodology**
+
 1. Data Preparation
   + Import necessary libraries
   + Develop helper functions for preprocessing
@@ -38,10 +41,10 @@ These images are sourced from the Open Access Series of Imaging Studies (OASIS),
 
 -	data_sample: contain train and test images
 -	main:
-  o	notebook_ML.ipynb: notebook containing the development of the project in English.
-  o	notebook_ML_es.ipynb: notebook containing the development of the project in Spanish.
-  o	All Models generated saved in h5 format.
-  o	Metrics plots for all models in PDF.
+  -	notebook_ML.ipynb: notebook containing the development of the project in English.
+  -	notebook_ML_es.ipynb: notebook containing the development of the project in Spanish.
+  -	All Models generated saved in h5 format.
+  -	Metrics plots for all models in PDF.
 
 
 ______________Version española______________
@@ -96,7 +99,7 @@ Se han seguido los siguientes pasos para preparar las imágenes para el análisi
 
 - data_sample: contiene imágenes de entrenamiento y prueba
 - main:
-  o notebook_ML.ipynb: cuaderno que contiene el desarrollo del proyecto en inglés.
-  o notebook_ML_es.ipynb: cuaderno que contiene el desarrollo del proyecto en español.
-  o Todos los modelos generados guardados en formato h5.
-  o Gráficos de las métricas para todos los modelos en PDF.
+  - notebook_ML.ipynb: cuaderno que contiene el desarrollo del proyecto en inglés.
+  - notebook_ML_es.ipynb: cuaderno que contiene el desarrollo del proyecto en español.
+  - Todos los modelos generados guardados en formato h5.
+  - Gráficos de las métricas para todos los modelos en PDF.
