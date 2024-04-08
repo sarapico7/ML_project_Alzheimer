@@ -41,10 +41,10 @@ These images are sourced from the Open Access Series of Imaging Studies (OASIS),
 
 -	data_sample: contain train and test images
 -	main:
-  -	notebook_ML.ipynb: notebook containing the development of the project in English.
-  -	notebook_ML_es.ipynb: notebook containing the development of the project in Spanish.
-  -	All Models generated saved in h5 format.
-  -	Metrics plots for all models in PDF.
+    -	notebook_ML.ipynb: notebook containing the development of the project in English.
+    -	notebook_ML_es.ipynb: notebook containing the development of the project in Spanish.
+    -	All Models generated saved in h5 format.
+    -	Metrics plots for all models in PDF.
 
 
 ______________Version española______________
