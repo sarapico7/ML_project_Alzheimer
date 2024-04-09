@@ -45,6 +45,8 @@ These images are sourced from the Open Access Series of Imaging Studies (OASIS),
     -	notebook_ML_es.ipynb: notebook containing the development of the project in Spanish.
     -	All Models generated saved in h5 format.
     -	Metrics plots for all models in PDF.
+    -	ML_presentation: Project presentation in PDF.
+
 
 
 ______________Version española______________
@@ -103,3 +105,4 @@ Se han seguido los siguientes pasos para preparar las imágenes para el análisi
   - notebook_ML_es.ipynb: cuaderno que contiene el desarrollo del proyecto en español.
   - Todos los modelos generados guardados en formato h5.
   - Gráficos de las métricas para todos los modelos en PDF.
+  - ML_presentation: Presentación del proyecto en PDF.
